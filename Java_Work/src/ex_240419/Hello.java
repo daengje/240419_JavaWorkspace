@@ -11,6 +11,7 @@ public class Hello {
 		System.out.println("Hello Java World");
 		//클래스 파일 만들고, 오늘 먹을 점심 메뉴 출력해보기.
 		//자동 줄맞춤 : ctrl + shift + f
+		
 	}
 
 }
